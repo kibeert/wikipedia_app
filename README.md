@@ -50,7 +50,7 @@ Contributions are welcome! If you'd like to contribute to this project, please f
 
 ## Credits
 
-This project was created by [Your Name] and is licensed under the MIT License. 
+This project was created by kibeert and is licensed under the MIT License. 
 
 ## License
 
